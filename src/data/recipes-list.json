@@ -1,0 +1,2098 @@
+[
+    {
+        "name": "Acacia Boat",
+        "tag": "minecraft:acacia_boat"
+    },
+    {
+        "name": "Acacia Door",
+        "tag": "minecraft:acacia_door"
+    },
+    {
+        "name": "Acacia Fence",
+        "tag": "minecraft:acacia_fence"
+    },
+    {
+        "name": "Acacia Fence Gate",
+        "tag": "minecraft:acacia_fence_gate"
+    },
+    {
+        "name": "Acacia Pressure Plate",
+        "tag": "minecraft:acacia_pressure_plate"
+    },
+    {
+        "name": "Acacia Sign",
+        "tag": "minecraft:acacia_sign"
+    },
+    {
+        "name": "Acacia Slab",
+        "tag": "minecraft:acacia_slab"
+    },
+    {
+        "name": "Acacia Stairs",
+        "tag": "minecraft:acacia_stairs"
+    },
+    {
+        "name": "Acacia Trapdoor",
+        "tag": "minecraft:acacia_trapdoor"
+    },
+    {
+        "name": "Acacia Wood",
+        "tag": "minecraft:acacia_wood"
+    },
+    {
+        "name": "Activator Rail",
+        "tag": "minecraft:activator_rail"
+    },
+    {
+        "name": "Amethyst Block",
+        "tag": "minecraft:amethyst_block"
+    },
+    {
+        "name": "Andesite Slab",
+        "tag": "minecraft:andesite_slab"
+    },
+    {
+        "name": "Andesite Stairs",
+        "tag": "minecraft:andesite_stairs"
+    },
+    {
+        "name": "Andesite Wall",
+        "tag": "minecraft:andesite_wall"
+    },
+    {
+        "name": "Anvil",
+        "tag": "minecraft:anvil"
+    },
+    {
+        "name": "Armor Stand",
+        "tag": "minecraft:armor_stand"
+    },
+    {
+        "name": "Arrow",
+        "tag": "minecraft:arrow"
+    },
+    {
+        "name": "Barrel",
+        "tag": "minecraft:barrel"
+    },
+    {
+        "name": "Beacon",
+        "tag": "minecraft:beacon"
+    },
+    {
+        "name": "Beehive",
+        "tag": "minecraft:beehive"
+    },
+    {
+        "name": "Birch Boat",
+        "tag": "minecraft:birch_boat"
+    },
+    {
+        "name": "Birch Door",
+        "tag": "minecraft:birch_door"
+    },
+    {
+        "name": "Birch Fence",
+        "tag": "minecraft:birch_fence"
+    },
+    {
+        "name": "Birch Fence Gate",
+        "tag": "minecraft:birch_fence_gate"
+    },
+    {
+        "name": "Birch Pressure Plate",
+        "tag": "minecraft:birch_pressure_plate"
+    },
+    {
+        "name": "Birch Sign",
+        "tag": "minecraft:birch_sign"
+    },
+    {
+        "name": "Birch Slab",
+        "tag": "minecraft:birch_slab"
+    },
+    {
+        "name": "Birch Stairs",
+        "tag": "minecraft:birch_stairs"
+    },
+    {
+        "name": "Birch Trapdoor",
+        "tag": "minecraft:birch_trapdoor"
+    },
+    {
+        "name": "Birch Wood",
+        "tag": "minecraft:birch_wood"
+    },
+    {
+        "name": "Black Banner",
+        "tag": "minecraft:black_banner"
+    },
+    {
+        "name": "Black Bed",
+        "tag": "minecraft:black_bed"
+    },
+    {
+        "name": "Black Carpet",
+        "tag": "minecraft:black_carpet"
+    },
+    {
+        "name": "Black Stained Glass",
+        "tag": "minecraft:black_stained_glass"
+    },
+    {
+        "name": "Black Stained Glass Pane",
+        "tag": "minecraft:black_stained_glass_pane"
+    },
+    {
+        "name": "Black Terracotta",
+        "tag": "minecraft:black_terracotta"
+    },
+    {
+        "name": "Blackstone Slab",
+        "tag": "minecraft:blackstone_slab"
+    },
+    {
+        "name": "Blackstone Stairs",
+        "tag": "minecraft:blackstone_stairs"
+    },
+    {
+        "name": "Blackstone Wall",
+        "tag": "minecraft:blackstone_wall"
+    },
+    {
+        "name": "Blast Furnace",
+        "tag": "minecraft:blast_furnace"
+    },
+    {
+        "name": "Blue Banner",
+        "tag": "minecraft:blue_banner"
+    },
+    {
+        "name": "Blue Bed",
+        "tag": "minecraft:blue_bed"
+    },
+    {
+        "name": "Blue Carpet",
+        "tag": "minecraft:blue_carpet"
+    },
+    {
+        "name": "Blue Ice",
+        "tag": "minecraft:blue_ice"
+    },
+    {
+        "name": "Blue Stained Glass",
+        "tag": "minecraft:blue_stained_glass"
+    },
+    {
+        "name": "Blue Stained Glass Pane",
+        "tag": "minecraft:blue_stained_glass_pane"
+    },
+    {
+        "name": "Blue Terracotta",
+        "tag": "minecraft:blue_terracotta"
+    },
+    {
+        "name": "Bone Block",
+        "tag": "minecraft:bone_block"
+    },
+    {
+        "name": "Bookshelf",
+        "tag": "minecraft:bookshelf"
+    },
+    {
+        "name": "Bow",
+        "tag": "minecraft:bow"
+    },
+    {
+        "name": "Bowl",
+        "tag": "minecraft:bowl"
+    },
+    {
+        "name": "Bread",
+        "tag": "minecraft:bread"
+    },
+    {
+        "name": "Brewing Stand",
+        "tag": "minecraft:brewing_stand"
+    },
+    {
+        "name": "Brick Slab",
+        "tag": "minecraft:brick_slab"
+    },
+    {
+        "name": "Brick Stairs",
+        "tag": "minecraft:brick_stairs"
+    },
+    {
+        "name": "Brick Wall",
+        "tag": "minecraft:brick_wall"
+    },
+    {
+        "name": "Bricks",
+        "tag": "minecraft:bricks"
+    },
+    {
+        "name": "Brown Banner",
+        "tag": "minecraft:brown_banner"
+    },
+    {
+        "name": "Brown Bed",
+        "tag": "minecraft:brown_bed"
+    },
+    {
+        "name": "Brown Carpet",
+        "tag": "minecraft:brown_carpet"
+    },
+    {
+        "name": "Brown Stained Glass",
+        "tag": "minecraft:brown_stained_glass"
+    },
+    {
+        "name": "Brown Stained Glass Pane",
+        "tag": "minecraft:brown_stained_glass_pane"
+    },
+    {
+        "name": "Brown Terracotta",
+        "tag": "minecraft:brown_terracotta"
+    },
+    {
+        "name": "Bucket",
+        "tag": "minecraft:bucket"
+    },
+    {
+        "name": "Cake",
+        "tag": "minecraft:cake"
+    },
+    {
+        "name": "Campfire",
+        "tag": "minecraft:campfire"
+    },
+    {
+        "name": "Candle",
+        "tag": "minecraft:candle"
+    },
+    {
+        "name": "Carrot On A Stick",
+        "tag": "minecraft:carrot_on_a_stick"
+    },
+    {
+        "name": "Cartography Table",
+        "tag": "minecraft:cartography_table"
+    },
+    {
+        "name": "Cauldron",
+        "tag": "minecraft:cauldron"
+    },
+    {
+        "name": "Chain",
+        "tag": "minecraft:chain"
+    },
+    {
+        "name": "Chest",
+        "tag": "minecraft:chest"
+    },
+    {
+        "name": "Chiseled Deepslate",
+        "tag": "minecraft:chiseled_deepslate"
+    },
+    {
+        "name": "Chiseled Nether Bricks",
+        "tag": "minecraft:chiseled_nether_bricks"
+    },
+    {
+        "name": "Chiseled Polished Blackstone",
+        "tag": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+        "name": "Chiseled Quartz Block",
+        "tag": "minecraft:chiseled_quartz_block"
+    },
+    {
+        "name": "Chiseled Red Sandstone",
+        "tag": "minecraft:chiseled_red_sandstone"
+    },
+    {
+        "name": "Chiseled Sandstone",
+        "tag": "minecraft:chiseled_sandstone"
+    },
+    {
+        "name": "Chiseled Stone Bricks",
+        "tag": "minecraft:chiseled_stone_bricks"
+    },
+    {
+        "name": "Clay",
+        "tag": "minecraft:clay"
+    },
+    {
+        "name": "Clock",
+        "tag": "minecraft:clock"
+    },
+    {
+        "name": "Coal Block",
+        "tag": "minecraft:coal_block"
+    },
+    {
+        "name": "Coarse Dirt",
+        "tag": "minecraft:coarse_dirt"
+    },
+    {
+        "name": "Cobbled Deepslate Slab",
+        "tag": "minecraft:cobbled_deepslate_slab"
+    },
+    {
+        "name": "Cobbled Deepslate Stairs",
+        "tag": "minecraft:cobbled_deepslate_stairs"
+    },
+    {
+        "name": "Cobbled Deepslate Wall",
+        "tag": "minecraft:cobbled_deepslate_wall"
+    },
+    {
+        "name": "Cobblestone Slab",
+        "tag": "minecraft:cobblestone_slab"
+    },
+    {
+        "name": "Cobblestone Stairs",
+        "tag": "minecraft:cobblestone_stairs"
+    },
+    {
+        "name": "Cobblestone Wall",
+        "tag": "minecraft:cobblestone_wall"
+    },
+    {
+        "name": "Comparator",
+        "tag": "minecraft:comparator"
+    },
+    {
+        "name": "Compass",
+        "tag": "minecraft:compass"
+    },
+    {
+        "name": "Composter",
+        "tag": "minecraft:composter"
+    },
+    {
+        "name": "Conduit",
+        "tag": "minecraft:conduit"
+    },
+    {
+        "name": "Cookie",
+        "tag": "minecraft:cookie"
+    },
+    {
+        "name": "Copper Block",
+        "tag": "minecraft:copper_block"
+    },
+    {
+        "name": "Crafting Table",
+        "tag": "minecraft:crafting_table"
+    },
+    {
+        "name": "Crimson Door",
+        "tag": "minecraft:crimson_door"
+    },
+    {
+        "name": "Crimson Fence",
+        "tag": "minecraft:crimson_fence"
+    },
+    {
+        "name": "Crimson Fence Gate",
+        "tag": "minecraft:crimson_fence_gate"
+    },
+    {
+        "name": "Crimson Hyphae",
+        "tag": "minecraft:crimson_hyphae"
+    },
+    {
+        "name": "Crimson Pressure Plate",
+        "tag": "minecraft:crimson_pressure_plate"
+    },
+    {
+        "name": "Crimson Sign",
+        "tag": "minecraft:crimson_sign"
+    },
+    {
+        "name": "Crimson Slab",
+        "tag": "minecraft:crimson_slab"
+    },
+    {
+        "name": "Crimson Stairs",
+        "tag": "minecraft:crimson_stairs"
+    },
+    {
+        "name": "Crimson Trapdoor",
+        "tag": "minecraft:crimson_trapdoor"
+    },
+    {
+        "name": "Crossbow",
+        "tag": "minecraft:crossbow"
+    },
+    {
+        "name": "Cut Copper",
+        "tag": "minecraft:cut_copper"
+    },
+    {
+        "name": "Cut Copper Slab",
+        "tag": "minecraft:cut_copper_slab"
+    },
+    {
+        "name": "Cut Copper Stairs",
+        "tag": "minecraft:cut_copper_stairs"
+    },
+    {
+        "name": "Cut Red Sandstone",
+        "tag": "minecraft:cut_red_sandstone"
+    },
+    {
+        "name": "Cut Red Sandstone Slab",
+        "tag": "minecraft:cut_red_sandstone_slab"
+    },
+    {
+        "name": "Cut Sandstone",
+        "tag": "minecraft:cut_sandstone"
+    },
+    {
+        "name": "Cut Sandstone Slab",
+        "tag": "minecraft:cut_sandstone_slab"
+    },
+    {
+        "name": "Cyan Banner",
+        "tag": "minecraft:cyan_banner"
+    },
+    {
+        "name": "Cyan Bed",
+        "tag": "minecraft:cyan_bed"
+    },
+    {
+        "name": "Cyan Carpet",
+        "tag": "minecraft:cyan_carpet"
+    },
+    {
+        "name": "Cyan Stained Glass",
+        "tag": "minecraft:cyan_stained_glass"
+    },
+    {
+        "name": "Cyan Stained Glass Pane",
+        "tag": "minecraft:cyan_stained_glass_pane"
+    },
+    {
+        "name": "Cyan Terracotta",
+        "tag": "minecraft:cyan_terracotta"
+    },
+    {
+        "name": "Dark Oak Boat",
+        "tag": "minecraft:dark_oak_boat"
+    },
+    {
+        "name": "Dark Oak Door",
+        "tag": "minecraft:dark_oak_door"
+    },
+    {
+        "name": "Dark Oak Fence",
+        "tag": "minecraft:dark_oak_fence"
+    },
+    {
+        "name": "Dark Oak Fence Gate",
+        "tag": "minecraft:dark_oak_fence_gate"
+    },
+    {
+        "name": "Dark Oak Pressure Plate",
+        "tag": "minecraft:dark_oak_pressure_plate"
+    },
+    {
+        "name": "Dark Oak Sign",
+        "tag": "minecraft:dark_oak_sign"
+    },
+    {
+        "name": "Dark Oak Slab",
+        "tag": "minecraft:dark_oak_slab"
+    },
+    {
+        "name": "Dark Oak Stairs",
+        "tag": "minecraft:dark_oak_stairs"
+    },
+    {
+        "name": "Dark Oak Trapdoor",
+        "tag": "minecraft:dark_oak_trapdoor"
+    },
+    {
+        "name": "Dark Oak Wood",
+        "tag": "minecraft:dark_oak_wood"
+    },
+    {
+        "name": "Dark Prismarine",
+        "tag": "minecraft:dark_prismarine"
+    },
+    {
+        "name": "Dark Prismarine Slab",
+        "tag": "minecraft:dark_prismarine_slab"
+    },
+    {
+        "name": "Dark Prismarine Stairs",
+        "tag": "minecraft:dark_prismarine_stairs"
+    },
+    {
+        "name": "Daylight Detector",
+        "tag": "minecraft:daylight_detector"
+    },
+    {
+        "name": "Deepslate Brick Slab",
+        "tag": "minecraft:deepslate_brick_slab"
+    },
+    {
+        "name": "Deepslate Brick Stairs",
+        "tag": "minecraft:deepslate_brick_stairs"
+    },
+    {
+        "name": "Deepslate Brick Wall",
+        "tag": "minecraft:deepslate_brick_wall"
+    },
+    {
+        "name": "Deepslate Bricks",
+        "tag": "minecraft:deepslate_bricks"
+    },
+    {
+        "name": "Deepslate Tile Slab",
+        "tag": "minecraft:deepslate_tile_slab"
+    },
+    {
+        "name": "Deepslate Tile Stairs",
+        "tag": "minecraft:deepslate_tile_stairs"
+    },
+    {
+        "name": "Deepslate Tile Wall",
+        "tag": "minecraft:deepslate_tile_wall"
+    },
+    {
+        "name": "Deepslate Tiles",
+        "tag": "minecraft:deepslate_tiles"
+    },
+    {
+        "name": "Detector Rail",
+        "tag": "minecraft:detector_rail"
+    },
+    {
+        "name": "Diamond Axe",
+        "tag": "minecraft:diamond_axe"
+    },
+    {
+        "name": "Diamond Block",
+        "tag": "minecraft:diamond_block"
+    },
+    {
+        "name": "Diamond Boots",
+        "tag": "minecraft:diamond_boots"
+    },
+    {
+        "name": "Diamond Chestplate",
+        "tag": "minecraft:diamond_chestplate"
+    },
+    {
+        "name": "Diamond Helmet",
+        "tag": "minecraft:diamond_helmet"
+    },
+    {
+        "name": "Diamond Hoe",
+        "tag": "minecraft:diamond_hoe"
+    },
+    {
+        "name": "Diamond Leggings",
+        "tag": "minecraft:diamond_leggings"
+    },
+    {
+        "name": "Diamond Pickaxe",
+        "tag": "minecraft:diamond_pickaxe"
+    },
+    {
+        "name": "Diamond Shovel",
+        "tag": "minecraft:diamond_shovel"
+    },
+    {
+        "name": "Diamond Sword",
+        "tag": "minecraft:diamond_sword"
+    },
+    {
+        "name": "Diorite",
+        "tag": "minecraft:diorite"
+    },
+    {
+        "name": "Diorite Slab",
+        "tag": "minecraft:diorite_slab"
+    },
+    {
+        "name": "Diorite Stairs",
+        "tag": "minecraft:diorite_stairs"
+    },
+    {
+        "name": "Diorite Wall",
+        "tag": "minecraft:diorite_wall"
+    },
+    {
+        "name": "Dispenser",
+        "tag": "minecraft:dispenser"
+    },
+    {
+        "name": "Dried Kelp Block",
+        "tag": "minecraft:dried_kelp_block"
+    },
+    {
+        "name": "Dripstone Block",
+        "tag": "minecraft:dripstone_block"
+    },
+    {
+        "name": "Dropper",
+        "tag": "minecraft:dropper"
+    },
+    {
+        "name": "Emerald Block",
+        "tag": "minecraft:emerald_block"
+    },
+    {
+        "name": "Enchanting Table",
+        "tag": "minecraft:enchanting_table"
+    },
+    {
+        "name": "End Crystal",
+        "tag": "minecraft:end_crystal"
+    },
+    {
+        "name": "End Rod",
+        "tag": "minecraft:end_rod"
+    },
+    {
+        "name": "End Stone Brick Slab",
+        "tag": "minecraft:end_stone_brick_slab"
+    },
+    {
+        "name": "End Stone Brick Stairs",
+        "tag": "minecraft:end_stone_brick_stairs"
+    },
+    {
+        "name": "End Stone Brick Wall",
+        "tag": "minecraft:end_stone_brick_wall"
+    },
+    {
+        "name": "End Stone Bricks",
+        "tag": "minecraft:end_stone_bricks"
+    },
+    {
+        "name": "Ender Chest",
+        "tag": "minecraft:ender_chest"
+    },
+    {
+        "name": "Exposed Cut Copper",
+        "tag": "minecraft:exposed_cut_copper"
+    },
+    {
+        "name": "Exposed Cut Copper Slab",
+        "tag": "minecraft:exposed_cut_copper_slab"
+    },
+    {
+        "name": "Exposed Cut Copper Stairs",
+        "tag": "minecraft:exposed_cut_copper_stairs"
+    },
+    {
+        "name": "Fishing Rod",
+        "tag": "minecraft:fishing_rod"
+    },
+    {
+        "name": "Fletching Table",
+        "tag": "minecraft:fletching_table"
+    },
+    {
+        "name": "Flower Pot",
+        "tag": "minecraft:flower_pot"
+    },
+    {
+        "name": "Furnace",
+        "tag": "minecraft:furnace"
+    },
+    {
+        "name": "Glass Bottle",
+        "tag": "minecraft:glass_bottle"
+    },
+    {
+        "name": "Glass Pane",
+        "tag": "minecraft:glass_pane"
+    },
+    {
+        "name": "Glistering Melon Slice",
+        "tag": "minecraft:glistering_melon_slice"
+    },
+    {
+        "name": "Glowstone",
+        "tag": "minecraft:glowstone"
+    },
+    {
+        "name": "Gold Block",
+        "tag": "minecraft:gold_block"
+    },
+    {
+        "name": "Gold Ingot",
+        "tag": "minecraft:gold_ingot"
+    },
+    {
+        "name": "Golden Apple",
+        "tag": "minecraft:golden_apple"
+    },
+    {
+        "name": "Golden Axe",
+        "tag": "minecraft:golden_axe"
+    },
+    {
+        "name": "Golden Boots",
+        "tag": "minecraft:golden_boots"
+    },
+    {
+        "name": "Golden Carrot",
+        "tag": "minecraft:golden_carrot"
+    },
+    {
+        "name": "Golden Chestplate",
+        "tag": "minecraft:golden_chestplate"
+    },
+    {
+        "name": "Golden Helmet",
+        "tag": "minecraft:golden_helmet"
+    },
+    {
+        "name": "Golden Hoe",
+        "tag": "minecraft:golden_hoe"
+    },
+    {
+        "name": "Golden Leggings",
+        "tag": "minecraft:golden_leggings"
+    },
+    {
+        "name": "Golden Pickaxe",
+        "tag": "minecraft:golden_pickaxe"
+    },
+    {
+        "name": "Golden Shovel",
+        "tag": "minecraft:golden_shovel"
+    },
+    {
+        "name": "Golden Sword",
+        "tag": "minecraft:golden_sword"
+    },
+    {
+        "name": "Granite Slab",
+        "tag": "minecraft:granite_slab"
+    },
+    {
+        "name": "Granite Stairs",
+        "tag": "minecraft:granite_stairs"
+    },
+    {
+        "name": "Granite Wall",
+        "tag": "minecraft:granite_wall"
+    },
+    {
+        "name": "Gray Banner",
+        "tag": "minecraft:gray_banner"
+    },
+    {
+        "name": "Gray Bed",
+        "tag": "minecraft:gray_bed"
+    },
+    {
+        "name": "Gray Carpet",
+        "tag": "minecraft:gray_carpet"
+    },
+    {
+        "name": "Gray Stained Glass",
+        "tag": "minecraft:gray_stained_glass"
+    },
+    {
+        "name": "Gray Stained Glass Pane",
+        "tag": "minecraft:gray_stained_glass_pane"
+    },
+    {
+        "name": "Gray Terracotta",
+        "tag": "minecraft:gray_terracotta"
+    },
+    {
+        "name": "Green Banner",
+        "tag": "minecraft:green_banner"
+    },
+    {
+        "name": "Green Bed",
+        "tag": "minecraft:green_bed"
+    },
+    {
+        "name": "Green Carpet",
+        "tag": "minecraft:green_carpet"
+    },
+    {
+        "name": "Green Stained Glass",
+        "tag": "minecraft:green_stained_glass"
+    },
+    {
+        "name": "Green Stained Glass Pane",
+        "tag": "minecraft:green_stained_glass_pane"
+    },
+    {
+        "name": "Green Terracotta",
+        "tag": "minecraft:green_terracotta"
+    },
+    {
+        "name": "Grindstone",
+        "tag": "minecraft:grindstone"
+    },
+    {
+        "name": "Hay Block",
+        "tag": "minecraft:hay_block"
+    },
+    {
+        "name": "Heavy Weighted Pressure Plate",
+        "tag": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+        "name": "Honey Block",
+        "tag": "minecraft:honey_block"
+    },
+    {
+        "name": "Honeycomb Block",
+        "tag": "minecraft:honeycomb_block"
+    },
+    {
+        "name": "Hopper",
+        "tag": "minecraft:hopper"
+    },
+    {
+        "name": "Iron Axe",
+        "tag": "minecraft:iron_axe"
+    },
+    {
+        "name": "Iron Bars",
+        "tag": "minecraft:iron_bars"
+    },
+    {
+        "name": "Iron Block",
+        "tag": "minecraft:iron_block"
+    },
+    {
+        "name": "Iron Boots",
+        "tag": "minecraft:iron_boots"
+    },
+    {
+        "name": "Iron Chestplate",
+        "tag": "minecraft:iron_chestplate"
+    },
+    {
+        "name": "Iron Door",
+        "tag": "minecraft:iron_door"
+    },
+    {
+        "name": "Iron Helmet",
+        "tag": "minecraft:iron_helmet"
+    },
+    {
+        "name": "Iron Hoe",
+        "tag": "minecraft:iron_hoe"
+    },
+    {
+        "name": "Iron Ingot",
+        "tag": "minecraft:iron_ingot"
+    },
+    {
+        "name": "Iron Leggings",
+        "tag": "minecraft:iron_leggings"
+    },
+    {
+        "name": "Iron Pickaxe",
+        "tag": "minecraft:iron_pickaxe"
+    },
+    {
+        "name": "Iron Shovel",
+        "tag": "minecraft:iron_shovel"
+    },
+    {
+        "name": "Iron Sword",
+        "tag": "minecraft:iron_sword"
+    },
+    {
+        "name": "Iron Trapdoor",
+        "tag": "minecraft:iron_trapdoor"
+    },
+    {
+        "name": "Item Frame",
+        "tag": "minecraft:item_frame"
+    },
+    {
+        "name": "Jack O Lantern",
+        "tag": "minecraft:jack_o_lantern"
+    },
+    {
+        "name": "Jukebox",
+        "tag": "minecraft:jukebox"
+    },
+    {
+        "name": "Jungle Boat",
+        "tag": "minecraft:jungle_boat"
+    },
+    {
+        "name": "Jungle Door",
+        "tag": "minecraft:jungle_door"
+    },
+    {
+        "name": "Jungle Fence",
+        "tag": "minecraft:jungle_fence"
+    },
+    {
+        "name": "Jungle Fence Gate",
+        "tag": "minecraft:jungle_fence_gate"
+    },
+    {
+        "name": "Jungle Pressure Plate",
+        "tag": "minecraft:jungle_pressure_plate"
+    },
+    {
+        "name": "Jungle Sign",
+        "tag": "minecraft:jungle_sign"
+    },
+    {
+        "name": "Jungle Slab",
+        "tag": "minecraft:jungle_slab"
+    },
+    {
+        "name": "Jungle Stairs",
+        "tag": "minecraft:jungle_stairs"
+    },
+    {
+        "name": "Jungle Trapdoor",
+        "tag": "minecraft:jungle_trapdoor"
+    },
+    {
+        "name": "Jungle Wood",
+        "tag": "minecraft:jungle_wood"
+    },
+    {
+        "name": "Ladder",
+        "tag": "minecraft:ladder"
+    },
+    {
+        "name": "Lantern",
+        "tag": "minecraft:lantern"
+    },
+    {
+        "name": "Lapis Block",
+        "tag": "minecraft:lapis_block"
+    },
+    {
+        "name": "Lead",
+        "tag": "minecraft:lead"
+    },
+    {
+        "name": "Leather",
+        "tag": "minecraft:leather"
+    },
+    {
+        "name": "Leather Boots",
+        "tag": "minecraft:leather_boots"
+    },
+    {
+        "name": "Leather Chestplate",
+        "tag": "minecraft:leather_chestplate"
+    },
+    {
+        "name": "Leather Helmet",
+        "tag": "minecraft:leather_helmet"
+    },
+    {
+        "name": "Leather Horse Armor",
+        "tag": "minecraft:leather_horse_armor"
+    },
+    {
+        "name": "Leather Leggings",
+        "tag": "minecraft:leather_leggings"
+    },
+    {
+        "name": "Lectern",
+        "tag": "minecraft:lectern"
+    },
+    {
+        "name": "Lever",
+        "tag": "minecraft:lever"
+    },
+    {
+        "name": "Light Blue Banner",
+        "tag": "minecraft:light_blue_banner"
+    },
+    {
+        "name": "Light Blue Bed",
+        "tag": "minecraft:light_blue_bed"
+    },
+    {
+        "name": "Light Blue Carpet",
+        "tag": "minecraft:light_blue_carpet"
+    },
+    {
+        "name": "Light Blue Stained Glass",
+        "tag": "minecraft:light_blue_stained_glass"
+    },
+    {
+        "name": "Light Blue Stained Glass Pane",
+        "tag": "minecraft:light_blue_stained_glass_pane"
+    },
+    {
+        "name": "Light Blue Terracotta",
+        "tag": "minecraft:light_blue_terracotta"
+    },
+    {
+        "name": "Light Gray Banner",
+        "tag": "minecraft:light_gray_banner"
+    },
+    {
+        "name": "Light Gray Bed",
+        "tag": "minecraft:light_gray_bed"
+    },
+    {
+        "name": "Light Gray Carpet",
+        "tag": "minecraft:light_gray_carpet"
+    },
+    {
+        "name": "Light Gray Stained Glass",
+        "tag": "minecraft:light_gray_stained_glass"
+    },
+    {
+        "name": "Light Gray Stained Glass Pane",
+        "tag": "minecraft:light_gray_stained_glass_pane"
+    },
+    {
+        "name": "Light Gray Terracotta",
+        "tag": "minecraft:light_gray_terracotta"
+    },
+    {
+        "name": "Light Weighted Pressure Plate",
+        "tag": "minecraft:light_weighted_pressure_plate"
+    },
+    {
+        "name": "Lightning Rod",
+        "tag": "minecraft:lightning_rod"
+    },
+    {
+        "name": "Lime Banner",
+        "tag": "minecraft:lime_banner"
+    },
+    {
+        "name": "Lime Bed",
+        "tag": "minecraft:lime_bed"
+    },
+    {
+        "name": "Lime Carpet",
+        "tag": "minecraft:lime_carpet"
+    },
+    {
+        "name": "Lime Stained Glass",
+        "tag": "minecraft:lime_stained_glass"
+    },
+    {
+        "name": "Lime Stained Glass Pane",
+        "tag": "minecraft:lime_stained_glass_pane"
+    },
+    {
+        "name": "Lime Terracotta",
+        "tag": "minecraft:lime_terracotta"
+    },
+    {
+        "name": "Lodestone",
+        "tag": "minecraft:lodestone"
+    },
+    {
+        "name": "Loom",
+        "tag": "minecraft:loom"
+    },
+    {
+        "name": "Magenta Banner",
+        "tag": "minecraft:magenta_banner"
+    },
+    {
+        "name": "Magenta Bed",
+        "tag": "minecraft:magenta_bed"
+    },
+    {
+        "name": "Magenta Carpet",
+        "tag": "minecraft:magenta_carpet"
+    },
+    {
+        "name": "Magenta Stained Glass",
+        "tag": "minecraft:magenta_stained_glass"
+    },
+    {
+        "name": "Magenta Stained Glass Pane",
+        "tag": "minecraft:magenta_stained_glass_pane"
+    },
+    {
+        "name": "Magenta Terracotta",
+        "tag": "minecraft:magenta_terracotta"
+    },
+    {
+        "name": "Magma Block",
+        "tag": "minecraft:magma_block"
+    },
+    {
+        "name": "Mangrove Boat",
+        "tag": "minecraft:mangrove_boat"
+    },
+    {
+        "name": "Mangrove Door",
+        "tag": "minecraft:mangrove_door"
+    },
+    {
+        "name": "Mangrove Fence",
+        "tag": "minecraft:mangrove_fence"
+    },
+    {
+        "name": "Mangrove Fence Gate",
+        "tag": "minecraft:mangrove_fence_gate"
+    },
+    {
+        "name": "Mangrove Pressure Plate",
+        "tag": "minecraft:mangrove_pressure_plate"
+    },
+    {
+        "name": "Mangrove Sign",
+        "tag": "minecraft:mangrove_sign"
+    },
+    {
+        "name": "Mangrove Slab",
+        "tag": "minecraft:mangrove_slab"
+    },
+    {
+        "name": "Mangrove Stairs",
+        "tag": "minecraft:mangrove_stairs"
+    },
+    {
+        "name": "Mangrove Trapdoor",
+        "tag": "minecraft:mangrove_trapdoor"
+    },
+    {
+        "name": "Mangrove Wood",
+        "tag": "minecraft:mangrove_wood"
+    },
+    {
+        "name": "Map",
+        "tag": "minecraft:map"
+    },
+    {
+        "name": "Melon",
+        "tag": "minecraft:melon"
+    },
+    {
+        "name": "Minecart",
+        "tag": "minecraft:minecart"
+    },
+    {
+        "name": "Moss Carpet",
+        "tag": "minecraft:moss_carpet"
+    },
+    {
+        "name": "Mossy Cobblestone Slab",
+        "tag": "minecraft:mossy_cobblestone_slab"
+    },
+    {
+        "name": "Mossy Cobblestone Stairs",
+        "tag": "minecraft:mossy_cobblestone_stairs"
+    },
+    {
+        "name": "Mossy Cobblestone Wall",
+        "tag": "minecraft:mossy_cobblestone_wall"
+    },
+    {
+        "name": "Mossy Stone Brick Slab",
+        "tag": "minecraft:mossy_stone_brick_slab"
+    },
+    {
+        "name": "Mossy Stone Brick Stairs",
+        "tag": "minecraft:mossy_stone_brick_stairs"
+    },
+    {
+        "name": "Mossy Stone Brick Wall",
+        "tag": "minecraft:mossy_stone_brick_wall"
+    },
+    {
+        "name": "Mud Brick Slab",
+        "tag": "minecraft:mud_brick_slab"
+    },
+    {
+        "name": "Mud Brick Stairs",
+        "tag": "minecraft:mud_brick_stairs"
+    },
+    {
+        "name": "Mud Brick Wall",
+        "tag": "minecraft:mud_brick_wall"
+    },
+    {
+        "name": "Mud Bricks",
+        "tag": "minecraft:mud_bricks"
+    },
+    {
+        "name": "Music Disc 5",
+        "tag": "minecraft:music_disc_5"
+    },
+    {
+        "name": "Nether Brick Fence",
+        "tag": "minecraft:nether_brick_fence"
+    },
+    {
+        "name": "Nether Brick Slab",
+        "tag": "minecraft:nether_brick_slab"
+    },
+    {
+        "name": "Nether Brick Stairs",
+        "tag": "minecraft:nether_brick_stairs"
+    },
+    {
+        "name": "Nether Brick Wall",
+        "tag": "minecraft:nether_brick_wall"
+    },
+    {
+        "name": "Nether Bricks",
+        "tag": "minecraft:nether_bricks"
+    },
+    {
+        "name": "Nether Wart Block",
+        "tag": "minecraft:nether_wart_block"
+    },
+    {
+        "name": "Netherite Block",
+        "tag": "minecraft:netherite_block"
+    },
+    {
+        "name": "Note Block",
+        "tag": "minecraft:note_block"
+    },
+    {
+        "name": "Oak Boat",
+        "tag": "minecraft:oak_boat"
+    },
+    {
+        "name": "Oak Door",
+        "tag": "minecraft:oak_door"
+    },
+    {
+        "name": "Oak Fence",
+        "tag": "minecraft:oak_fence"
+    },
+    {
+        "name": "Oak Fence Gate",
+        "tag": "minecraft:oak_fence_gate"
+    },
+    {
+        "name": "Oak Pressure Plate",
+        "tag": "minecraft:oak_pressure_plate"
+    },
+    {
+        "name": "Oak Sign",
+        "tag": "minecraft:oak_sign"
+    },
+    {
+        "name": "Oak Slab",
+        "tag": "minecraft:oak_slab"
+    },
+    {
+        "name": "Oak Stairs",
+        "tag": "minecraft:oak_stairs"
+    },
+    {
+        "name": "Oak Trapdoor",
+        "tag": "minecraft:oak_trapdoor"
+    },
+    {
+        "name": "Oak Wood",
+        "tag": "minecraft:oak_wood"
+    },
+    {
+        "name": "Observer",
+        "tag": "minecraft:observer"
+    },
+    {
+        "name": "Orange Banner",
+        "tag": "minecraft:orange_banner"
+    },
+    {
+        "name": "Orange Bed",
+        "tag": "minecraft:orange_bed"
+    },
+    {
+        "name": "Orange Carpet",
+        "tag": "minecraft:orange_carpet"
+    },
+    {
+        "name": "Orange Stained Glass",
+        "tag": "minecraft:orange_stained_glass"
+    },
+    {
+        "name": "Orange Stained Glass Pane",
+        "tag": "minecraft:orange_stained_glass_pane"
+    },
+    {
+        "name": "Orange Terracotta",
+        "tag": "minecraft:orange_terracotta"
+    },
+    {
+        "name": "Oxidized Cut Copper",
+        "tag": "minecraft:oxidized_cut_copper"
+    },
+    {
+        "name": "Oxidized Cut Copper Slab",
+        "tag": "minecraft:oxidized_cut_copper_slab"
+    },
+    {
+        "name": "Oxidized Cut Copper Stairs",
+        "tag": "minecraft:oxidized_cut_copper_stairs"
+    },
+    {
+        "name": "Painting",
+        "tag": "minecraft:painting"
+    },
+    {
+        "name": "Paper",
+        "tag": "minecraft:paper"
+    },
+    {
+        "name": "Pink Banner",
+        "tag": "minecraft:pink_banner"
+    },
+    {
+        "name": "Pink Bed",
+        "tag": "minecraft:pink_bed"
+    },
+    {
+        "name": "Pink Carpet",
+        "tag": "minecraft:pink_carpet"
+    },
+    {
+        "name": "Pink Stained Glass",
+        "tag": "minecraft:pink_stained_glass"
+    },
+    {
+        "name": "Pink Stained Glass Pane",
+        "tag": "minecraft:pink_stained_glass_pane"
+    },
+    {
+        "name": "Pink Terracotta",
+        "tag": "minecraft:pink_terracotta"
+    },
+    {
+        "name": "Piston",
+        "tag": "minecraft:piston"
+    },
+    {
+        "name": "Polished Andesite",
+        "tag": "minecraft:polished_andesite"
+    },
+    {
+        "name": "Polished Andesite Slab",
+        "tag": "minecraft:polished_andesite_slab"
+    },
+    {
+        "name": "Polished Andesite Stairs",
+        "tag": "minecraft:polished_andesite_stairs"
+    },
+    {
+        "name": "Polished Basalt",
+        "tag": "minecraft:polished_basalt"
+    },
+    {
+        "name": "Polished Blackstone",
+        "tag": "minecraft:polished_blackstone"
+    },
+    {
+        "name": "Polished Blackstone Brick Slab",
+        "tag": "minecraft:polished_blackstone_brick_slab"
+    },
+    {
+        "name": "Polished Blackstone Brick Stairs",
+        "tag": "minecraft:polished_blackstone_brick_stairs"
+    },
+    {
+        "name": "Polished Blackstone Brick Wall",
+        "tag": "minecraft:polished_blackstone_brick_wall"
+    },
+    {
+        "name": "Polished Blackstone Bricks",
+        "tag": "minecraft:polished_blackstone_bricks"
+    },
+    {
+        "name": "Polished Blackstone Pressure Plate",
+        "tag": "minecraft:polished_blackstone_pressure_plate"
+    },
+    {
+        "name": "Polished Blackstone Slab",
+        "tag": "minecraft:polished_blackstone_slab"
+    },
+    {
+        "name": "Polished Blackstone Stairs",
+        "tag": "minecraft:polished_blackstone_stairs"
+    },
+    {
+        "name": "Polished Blackstone Wall",
+        "tag": "minecraft:polished_blackstone_wall"
+    },
+    {
+        "name": "Polished Deepslate",
+        "tag": "minecraft:polished_deepslate"
+    },
+    {
+        "name": "Polished Deepslate Slab",
+        "tag": "minecraft:polished_deepslate_slab"
+    },
+    {
+        "name": "Polished Deepslate Stairs",
+        "tag": "minecraft:polished_deepslate_stairs"
+    },
+    {
+        "name": "Polished Deepslate Wall",
+        "tag": "minecraft:polished_deepslate_wall"
+    },
+    {
+        "name": "Polished Diorite",
+        "tag": "minecraft:polished_diorite"
+    },
+    {
+        "name": "Polished Diorite Slab",
+        "tag": "minecraft:polished_diorite_slab"
+    },
+    {
+        "name": "Polished Diorite Stairs",
+        "tag": "minecraft:polished_diorite_stairs"
+    },
+    {
+        "name": "Polished Granite",
+        "tag": "minecraft:polished_granite"
+    },
+    {
+        "name": "Polished Granite Slab",
+        "tag": "minecraft:polished_granite_slab"
+    },
+    {
+        "name": "Polished Granite Stairs",
+        "tag": "minecraft:polished_granite_stairs"
+    },
+    {
+        "name": "Powered Rail",
+        "tag": "minecraft:powered_rail"
+    },
+    {
+        "name": "Prismarine",
+        "tag": "minecraft:prismarine"
+    },
+    {
+        "name": "Prismarine Brick Slab",
+        "tag": "minecraft:prismarine_brick_slab"
+    },
+    {
+        "name": "Prismarine Brick Stairs",
+        "tag": "minecraft:prismarine_brick_stairs"
+    },
+    {
+        "name": "Prismarine Bricks",
+        "tag": "minecraft:prismarine_bricks"
+    },
+    {
+        "name": "Prismarine Slab",
+        "tag": "minecraft:prismarine_slab"
+    },
+    {
+        "name": "Prismarine Stairs",
+        "tag": "minecraft:prismarine_stairs"
+    },
+    {
+        "name": "Prismarine Wall",
+        "tag": "minecraft:prismarine_wall"
+    },
+    {
+        "name": "Purple Banner",
+        "tag": "minecraft:purple_banner"
+    },
+    {
+        "name": "Purple Bed",
+        "tag": "minecraft:purple_bed"
+    },
+    {
+        "name": "Purple Carpet",
+        "tag": "minecraft:purple_carpet"
+    },
+    {
+        "name": "Purple Stained Glass",
+        "tag": "minecraft:purple_stained_glass"
+    },
+    {
+        "name": "Purple Stained Glass Pane",
+        "tag": "minecraft:purple_stained_glass_pane"
+    },
+    {
+        "name": "Purple Terracotta",
+        "tag": "minecraft:purple_terracotta"
+    },
+    {
+        "name": "Purpur Block",
+        "tag": "minecraft:purpur_block"
+    },
+    {
+        "name": "Purpur Pillar",
+        "tag": "minecraft:purpur_pillar"
+    },
+    {
+        "name": "Purpur Slab",
+        "tag": "minecraft:purpur_slab"
+    },
+    {
+        "name": "Purpur Stairs",
+        "tag": "minecraft:purpur_stairs"
+    },
+    {
+        "name": "Quartz Block",
+        "tag": "minecraft:quartz_block"
+    },
+    {
+        "name": "Quartz Bricks",
+        "tag": "minecraft:quartz_bricks"
+    },
+    {
+        "name": "Quartz Pillar",
+        "tag": "minecraft:quartz_pillar"
+    },
+    {
+        "name": "Quartz Slab",
+        "tag": "minecraft:quartz_slab"
+    },
+    {
+        "name": "Quartz Stairs",
+        "tag": "minecraft:quartz_stairs"
+    },
+    {
+        "name": "Rail",
+        "tag": "minecraft:rail"
+    },
+    {
+        "name": "Raw Copper Block",
+        "tag": "minecraft:raw_copper_block"
+    },
+    {
+        "name": "Raw Gold Block",
+        "tag": "minecraft:raw_gold_block"
+    },
+    {
+        "name": "Raw Iron Block",
+        "tag": "minecraft:raw_iron_block"
+    },
+    {
+        "name": "Recovery Compass",
+        "tag": "minecraft:recovery_compass"
+    },
+    {
+        "name": "Red Banner",
+        "tag": "minecraft:red_banner"
+    },
+    {
+        "name": "Red Bed",
+        "tag": "minecraft:red_bed"
+    },
+    {
+        "name": "Red Carpet",
+        "tag": "minecraft:red_carpet"
+    },
+    {
+        "name": "Red Nether Brick Slab",
+        "tag": "minecraft:red_nether_brick_slab"
+    },
+    {
+        "name": "Red Nether Brick Stairs",
+        "tag": "minecraft:red_nether_brick_stairs"
+    },
+    {
+        "name": "Red Nether Brick Wall",
+        "tag": "minecraft:red_nether_brick_wall"
+    },
+    {
+        "name": "Red Nether Bricks",
+        "tag": "minecraft:red_nether_bricks"
+    },
+    {
+        "name": "Red Sandstone",
+        "tag": "minecraft:red_sandstone"
+    },
+    {
+        "name": "Red Sandstone Slab",
+        "tag": "minecraft:red_sandstone_slab"
+    },
+    {
+        "name": "Red Sandstone Stairs",
+        "tag": "minecraft:red_sandstone_stairs"
+    },
+    {
+        "name": "Red Sandstone Wall",
+        "tag": "minecraft:red_sandstone_wall"
+    },
+    {
+        "name": "Red Stained Glass",
+        "tag": "minecraft:red_stained_glass"
+    },
+    {
+        "name": "Red Stained Glass Pane",
+        "tag": "minecraft:red_stained_glass_pane"
+    },
+    {
+        "name": "Red Terracotta",
+        "tag": "minecraft:red_terracotta"
+    },
+    {
+        "name": "Redstone Block",
+        "tag": "minecraft:redstone_block"
+    },
+    {
+        "name": "Redstone Lamp",
+        "tag": "minecraft:redstone_lamp"
+    },
+    {
+        "name": "Redstone Torch",
+        "tag": "minecraft:redstone_torch"
+    },
+    {
+        "name": "Repeater",
+        "tag": "minecraft:repeater"
+    },
+    {
+        "name": "Respawn Anchor",
+        "tag": "minecraft:respawn_anchor"
+    },
+    {
+        "name": "Sandstone",
+        "tag": "minecraft:sandstone"
+    },
+    {
+        "name": "Sandstone Slab",
+        "tag": "minecraft:sandstone_slab"
+    },
+    {
+        "name": "Sandstone Stairs",
+        "tag": "minecraft:sandstone_stairs"
+    },
+    {
+        "name": "Sandstone Wall",
+        "tag": "minecraft:sandstone_wall"
+    },
+    {
+        "name": "Scaffolding",
+        "tag": "minecraft:scaffolding"
+    },
+    {
+        "name": "Sea Lantern",
+        "tag": "minecraft:sea_lantern"
+    },
+    {
+        "name": "Shears",
+        "tag": "minecraft:shears"
+    },
+    {
+        "name": "Shield",
+        "tag": "minecraft:shield"
+    },
+    {
+        "name": "Shulker Box",
+        "tag": "minecraft:shulker_box"
+    },
+    {
+        "name": "Slime Block",
+        "tag": "minecraft:slime_block"
+    },
+    {
+        "name": "Smithing Table",
+        "tag": "minecraft:smithing_table"
+    },
+    {
+        "name": "Smoker",
+        "tag": "minecraft:smoker"
+    },
+    {
+        "name": "Smooth Quartz Slab",
+        "tag": "minecraft:smooth_quartz_slab"
+    },
+    {
+        "name": "Smooth Quartz Stairs",
+        "tag": "minecraft:smooth_quartz_stairs"
+    },
+    {
+        "name": "Smooth Red Sandstone Slab",
+        "tag": "minecraft:smooth_red_sandstone_slab"
+    },
+    {
+        "name": "Smooth Red Sandstone Stairs",
+        "tag": "minecraft:smooth_red_sandstone_stairs"
+    },
+    {
+        "name": "Smooth Sandstone Slab",
+        "tag": "minecraft:smooth_sandstone_slab"
+    },
+    {
+        "name": "Smooth Sandstone Stairs",
+        "tag": "minecraft:smooth_sandstone_stairs"
+    },
+    {
+        "name": "Smooth Stone Slab",
+        "tag": "minecraft:smooth_stone_slab"
+    },
+    {
+        "name": "Snow",
+        "tag": "minecraft:snow"
+    },
+    {
+        "name": "Snow Block",
+        "tag": "minecraft:snow_block"
+    },
+    {
+        "name": "Soul Campfire",
+        "tag": "minecraft:soul_campfire"
+    },
+    {
+        "name": "Soul Lantern",
+        "tag": "minecraft:soul_lantern"
+    },
+    {
+        "name": "Soul Torch",
+        "tag": "minecraft:soul_torch"
+    },
+    {
+        "name": "Spectral Arrow",
+        "tag": "minecraft:spectral_arrow"
+    },
+    {
+        "name": "Spruce Boat",
+        "tag": "minecraft:spruce_boat"
+    },
+    {
+        "name": "Spruce Door",
+        "tag": "minecraft:spruce_door"
+    },
+    {
+        "name": "Spruce Fence",
+        "tag": "minecraft:spruce_fence"
+    },
+    {
+        "name": "Spruce Fence Gate",
+        "tag": "minecraft:spruce_fence_gate"
+    },
+    {
+        "name": "Spruce Pressure Plate",
+        "tag": "minecraft:spruce_pressure_plate"
+    },
+    {
+        "name": "Spruce Sign",
+        "tag": "minecraft:spruce_sign"
+    },
+    {
+        "name": "Spruce Slab",
+        "tag": "minecraft:spruce_slab"
+    },
+    {
+        "name": "Spruce Stairs",
+        "tag": "minecraft:spruce_stairs"
+    },
+    {
+        "name": "Spruce Trapdoor",
+        "tag": "minecraft:spruce_trapdoor"
+    },
+    {
+        "name": "Spruce Wood",
+        "tag": "minecraft:spruce_wood"
+    },
+    {
+        "name": "Spyglass",
+        "tag": "minecraft:spyglass"
+    },
+    {
+        "name": "Stick",
+        "tag": "minecraft:stick"
+    },
+    {
+        "name": "Sticky Piston",
+        "tag": "minecraft:sticky_piston"
+    },
+    {
+        "name": "Stone Axe",
+        "tag": "minecraft:stone_axe"
+    },
+    {
+        "name": "Stone Brick Slab",
+        "tag": "minecraft:stone_brick_slab"
+    },
+    {
+        "name": "Stone Brick Stairs",
+        "tag": "minecraft:stone_brick_stairs"
+    },
+    {
+        "name": "Stone Brick Wall",
+        "tag": "minecraft:stone_brick_wall"
+    },
+    {
+        "name": "Stone Bricks",
+        "tag": "minecraft:stone_bricks"
+    },
+    {
+        "name": "Stone Hoe",
+        "tag": "minecraft:stone_hoe"
+    },
+    {
+        "name": "Stone Pickaxe",
+        "tag": "minecraft:stone_pickaxe"
+    },
+    {
+        "name": "Stone Pressure Plate",
+        "tag": "minecraft:stone_pressure_plate"
+    },
+    {
+        "name": "Stone Shovel",
+        "tag": "minecraft:stone_shovel"
+    },
+    {
+        "name": "Stone Slab",
+        "tag": "minecraft:stone_slab"
+    },
+    {
+        "name": "Stone Stairs",
+        "tag": "minecraft:stone_stairs"
+    },
+    {
+        "name": "Stone Sword",
+        "tag": "minecraft:stone_sword"
+    },
+    {
+        "name": "Stonecutter",
+        "tag": "minecraft:stonecutter"
+    },
+    {
+        "name": "Stripped Acacia Wood",
+        "tag": "minecraft:stripped_acacia_wood"
+    },
+    {
+        "name": "Stripped Birch Wood",
+        "tag": "minecraft:stripped_birch_wood"
+    },
+    {
+        "name": "Stripped Crimson Hyphae",
+        "tag": "minecraft:stripped_crimson_hyphae"
+    },
+    {
+        "name": "Stripped Dark Oak Wood",
+        "tag": "minecraft:stripped_dark_oak_wood"
+    },
+    {
+        "name": "Stripped Jungle Wood",
+        "tag": "minecraft:stripped_jungle_wood"
+    },
+    {
+        "name": "Stripped Mangrove Wood",
+        "tag": "minecraft:stripped_mangrove_wood"
+    },
+    {
+        "name": "Stripped Oak Wood",
+        "tag": "minecraft:stripped_oak_wood"
+    },
+    {
+        "name": "Stripped Spruce Wood",
+        "tag": "minecraft:stripped_spruce_wood"
+    },
+    {
+        "name": "Stripped Warped Hyphae",
+        "tag": "minecraft:stripped_warped_hyphae"
+    },
+    {
+        "name": "Target",
+        "tag": "minecraft:target"
+    },
+    {
+        "name": "Tinted Glass",
+        "tag": "minecraft:tinted_glass"
+    },
+    {
+        "name": "Tnt",
+        "tag": "minecraft:tnt"
+    },
+    {
+        "name": "Torch",
+        "tag": "minecraft:torch"
+    },
+    {
+        "name": "Tripwire Hook",
+        "tag": "minecraft:tripwire_hook"
+    },
+    {
+        "name": "Turtle Helmet",
+        "tag": "minecraft:turtle_helmet"
+    },
+    {
+        "name": "Warped Door",
+        "tag": "minecraft:warped_door"
+    },
+    {
+        "name": "Warped Fence",
+        "tag": "minecraft:warped_fence"
+    },
+    {
+        "name": "Warped Fence Gate",
+        "tag": "minecraft:warped_fence_gate"
+    },
+    {
+        "name": "Warped Fungus On A Stick",
+        "tag": "minecraft:warped_fungus_on_a_stick"
+    },
+    {
+        "name": "Warped Hyphae",
+        "tag": "minecraft:warped_hyphae"
+    },
+    {
+        "name": "Warped Pressure Plate",
+        "tag": "minecraft:warped_pressure_plate"
+    },
+    {
+        "name": "Warped Sign",
+        "tag": "minecraft:warped_sign"
+    },
+    {
+        "name": "Warped Slab",
+        "tag": "minecraft:warped_slab"
+    },
+    {
+        "name": "Warped Stairs",
+        "tag": "minecraft:warped_stairs"
+    },
+    {
+        "name": "Warped Trapdoor",
+        "tag": "minecraft:warped_trapdoor"
+    },
+    {
+        "name": "Waxed Cut Copper",
+        "tag": "minecraft:waxed_cut_copper"
+    },
+    {
+        "name": "Waxed Cut Copper Slab",
+        "tag": "minecraft:waxed_cut_copper_slab"
+    },
+    {
+        "name": "Waxed Cut Copper Stairs",
+        "tag": "minecraft:waxed_cut_copper_stairs"
+    },
+    {
+        "name": "Waxed Exposed Cut Copper",
+        "tag": "minecraft:waxed_exposed_cut_copper"
+    },
+    {
+        "name": "Waxed Exposed Cut Copper Slab",
+        "tag": "minecraft:waxed_exposed_cut_copper_slab"
+    },
+    {
+        "name": "Waxed Exposed Cut Copper Stairs",
+        "tag": "minecraft:waxed_exposed_cut_copper_stairs"
+    },
+    {
+        "name": "Waxed Oxidized Cut Copper",
+        "tag": "minecraft:waxed_oxidized_cut_copper"
+    },
+    {
+        "name": "Waxed Oxidized Cut Copper Slab",
+        "tag": "minecraft:waxed_oxidized_cut_copper_slab"
+    },
+    {
+        "name": "Waxed Oxidized Cut Copper Stairs",
+        "tag": "minecraft:waxed_oxidized_cut_copper_stairs"
+    },
+    {
+        "name": "Waxed Weathered Cut Copper",
+        "tag": "minecraft:waxed_weathered_cut_copper"
+    },
+    {
+        "name": "Waxed Weathered Cut Copper Slab",
+        "tag": "minecraft:waxed_weathered_cut_copper_slab"
+    },
+    {
+        "name": "Waxed Weathered Cut Copper Stairs",
+        "tag": "minecraft:waxed_weathered_cut_copper_stairs"
+    },
+    {
+        "name": "Weathered Cut Copper",
+        "tag": "minecraft:weathered_cut_copper"
+    },
+    {
+        "name": "Weathered Cut Copper Slab",
+        "tag": "minecraft:weathered_cut_copper_slab"
+    },
+    {
+        "name": "Weathered Cut Copper Stairs",
+        "tag": "minecraft:weathered_cut_copper_stairs"
+    },
+    {
+        "name": "White Banner",
+        "tag": "minecraft:white_banner"
+    },
+    {
+        "name": "White Bed",
+        "tag": "minecraft:white_bed"
+    },
+    {
+        "name": "White Carpet",
+        "tag": "minecraft:white_carpet"
+    },
+    {
+        "name": "White Stained Glass",
+        "tag": "minecraft:white_stained_glass"
+    },
+    {
+        "name": "White Stained Glass Pane",
+        "tag": "minecraft:white_stained_glass_pane"
+    },
+    {
+        "name": "White Terracotta",
+        "tag": "minecraft:white_terracotta"
+    },
+    {
+        "name": "White Wool",
+        "tag": "minecraft:white_wool"
+    },
+    {
+        "name": "Wooden Axe",
+        "tag": "minecraft:wooden_axe"
+    },
+    {
+        "name": "Wooden Hoe",
+        "tag": "minecraft:wooden_hoe"
+    },
+    {
+        "name": "Wooden Pickaxe",
+        "tag": "minecraft:wooden_pickaxe"
+    },
+    {
+        "name": "Wooden Shovel",
+        "tag": "minecraft:wooden_shovel"
+    },
+    {
+        "name": "Wooden Sword",
+        "tag": "minecraft:wooden_sword"
+    },
+    {
+        "name": "Yellow Banner",
+        "tag": "minecraft:yellow_banner"
+    },
+    {
+        "name": "Yellow Bed",
+        "tag": "minecraft:yellow_bed"
+    },
+    {
+        "name": "Yellow Carpet",
+        "tag": "minecraft:yellow_carpet"
+    },
+    {
+        "name": "Yellow Stained Glass",
+        "tag": "minecraft:yellow_stained_glass"
+    },
+    {
+        "name": "Yellow Stained Glass Pane",
+        "tag": "minecraft:yellow_stained_glass_pane"
+    },
+    {
+        "name": "Yellow Terracotta",
+        "tag": "minecraft:yellow_terracotta"
+    }
+]
