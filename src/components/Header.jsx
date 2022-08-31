@@ -1,9 +1,9 @@
 const Header = () => {
     return (
-        <header className="py-3 w-full bg-neutral-200 flex flex-col items-center">
-            <h1 className="font-medium text-4xl text-center">Minecraft Recipes</h1>
+        <header className="flex w-full flex-col items-center bg-neutral-200 py-3">
+            <h1 className="text-center text-4xl font-medium">Minecraft Recipes</h1>
 
-            <span className="font-medium text-sm text-center">1.19.1</span>
+            <span className="text-center text-sm font-medium">1.19.1</span>
         </header>
     );
 };

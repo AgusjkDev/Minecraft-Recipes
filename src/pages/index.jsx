@@ -15,7 +15,7 @@ const Index = () => {
         <>
             <Header />
 
-            <main className="py-8 w-full min-h-[calc(100vh-8.5rem)] flex flex-col items-center gap-4">
+            <main className="flex min-h-[calc(100vh-8.5rem)] w-full flex-col items-center gap-4 py-8">
                 <SearchBar search={search} setSearch={setSearch} />
 
                 <Recipes

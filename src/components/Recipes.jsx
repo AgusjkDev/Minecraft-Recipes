@@ -28,8 +28,8 @@ const Recipes = ({ search, resultsQuantity, setResultsQuantity }) => {
     });
 
     return (
-        <div className="w-[90%] lg:w-[85%] 2xl:w-3/4 flex flex-col items-center gap-4">
-            <p className="py-3 w-full bg-neutral-200 rounded text-center">{`${resultsLength} ${
+        <div className="flex w-[90%] flex-col items-center gap-4 lg:w-[85%] 2xl:w-3/4">
+            <p className="w-full rounded bg-neutral-200 py-3 text-center">{`${resultsLength} ${
                 resultsLength === 1 ? "result" : "results"
             } found`}</p>
 

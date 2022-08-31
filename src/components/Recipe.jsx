@@ -8,12 +8,12 @@ const RecipeStructure = ({ tag, count, crafting, lastRecipeRef }) => {
     return (
         <div
             {...(lastRecipeRef && { ref: lastRecipeRef })}
-            className="mx-auto relative w-[320px] h-[160px] flex items-center justify-center"
+            className="relative mx-auto flex h-[160px] w-[320px] items-center justify-center"
         >
-            <div className="absolute z-[1] w-[94%] h-[87%] flex items-center justify-between">
-                <div className="w-[44.5%] h-full grid grid-rows-3">
+            <div className="absolute z-[1] flex h-[87%] w-[94%] items-center justify-between">
+                <div className="grid h-full w-[44.5%] grid-rows-3">
                     {crafting.pattern.map((row, rowIndex) => (
-                        <div key={rowIndex} className="w-full grid grid-cols-3">
+                        <div key={rowIndex} className="grid w-full grid-cols-3">
                             {row.map((key, keyIndex) => {
                                 const itemTag = crafting.keys[key];
 
@@ -37,10 +37,10 @@ const RecipeStructure = ({ tag, count, crafting, lastRecipeRef }) => {
                     ))}
                 </div>
 
-                <div className="w-[20%] h-[44.5%] flex items-center justify-center">
+                <div className="flex h-[44.5%] w-[20%] items-center justify-center">
                     <Item item={items[tag]} />
 
-                    <span className="absolute w-9 h-[2.75rem] flex items-end justify-end font-minecraft text-white text-shadow">
+                    <span className="font-minecraft text-shadow absolute flex h-[2.75rem] w-9 items-end justify-end text-white">
                         {count > 1 && count}
                     </span>
                 </div>

@@ -2,14 +2,14 @@ import Image from "next/image";
 
 const Footer = () => {
     return (
-        <footer className="py-3 w-full bg-neutral-200 flex items-center justify-center">
+        <footer className="flex w-full items-center justify-center bg-neutral-200 py-3">
             <a
                 href="https://github.com/ShadeDev7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-1"
             >
-                <div className="w-7 h-7 relative">
+                <div className="relative h-7 w-7">
                     <Image alt="ShadeDev7 GitHub" src="/imgs/github.svg" layout="fill" />
                 </div>
 
